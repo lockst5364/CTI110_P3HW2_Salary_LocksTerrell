@@ -1,1 +1,4 @@
-# CTI110_P3HW2_Salary_LocksTerrell
+# CTI 110 repository
+Created for P3HW2
+Locks
+November 7, 2023
